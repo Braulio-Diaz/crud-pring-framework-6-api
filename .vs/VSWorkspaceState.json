@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\.mvn",
+    "\\.mvn\\wrapper",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\braulio",
+    "\\src\\main\\java\\com\\braulio\\curso",
+    "\\src\\main\\java\\com\\braulio\\curso\\springboot",
+    "\\src\\main\\java\\com\\braulio\\curso\\springboot\\app",
+    "\\src\\main\\java\\com\\braulio\\curso\\springboot\\app\\springbootcrud"
+  ],
+  "PreviewInSolutionExplorer": false
+}
